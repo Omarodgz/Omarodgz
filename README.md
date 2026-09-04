@@ -1,5 +1,5 @@
 # 💫 About Me:
-Mechatronics Engineer transitioning into Data Analysis & Data Science. I work with Python (Pandas, NumPy, Scikit-learn), SQL, and Power BI to clean, explore, and validate datasets, uncovering patterns and trends that support ML pipelines and business decisions. My background in AI-training data quality and manufacturing gives me a strong analytical foundation for building predictive models and clear, actionable reports.<br><br>🔍 Check out my repos for projects on data cleaning, EDA, and statistical/predictive modeling.<br>📊 Currently leveling up my skills toward a Data Scientist/Analyst role.
+Mechatronics Engineer transitioning into Data Analysis & Data Science. I work with Python (Pandas, NumPy, Scikit-learn), SQL, and Power BI to clean, explore, and validate datasets, uncovering patterns and trends that support ML pipelines and business decisions. My background in AI-training data quality and manufacturing gives me a strong analytical foundation for building predictive models and clear, actionable reports.<br><br>🔍 Check out my repos for projects on data science, EDA, and statistical/predictive modeling.<br>📊 Currently leveling up my skills toward a Data Scientist/Analyst role.
 
 
 ## 🌐 Socials:
